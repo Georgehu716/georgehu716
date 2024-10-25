@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hire me! I can solve your problems.
+
+Currently focusing on Kubernetes ecosystem.
+
 <!--
 **Georgehu716/georgehu716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
