@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hire me! I can solve your problems.
-
 Currently focusing on Kubernetes ecosystem.
 
 <!--
