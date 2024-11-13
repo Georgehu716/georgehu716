@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently focusing on Kubernetes ecosystem.
+Currently focusing on Kubernetes/Go ecosystem.
 
 <!--
 **Georgehu716/georgehu716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
