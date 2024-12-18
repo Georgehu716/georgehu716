@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+What I am doing now:
+- leetcode
+- SICP
+- pdm
+
 
 <!--
 **Georgehu716/georgehu716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
