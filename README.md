@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-What I am doing now:
-- leetcode
+Do one thing and do it well:
 - SICP
-- pdm
 
 
 <!--
