@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I don't remember anything but solving problems.
+
 Looking for a remote job, feel free to contact me: [erxionghu@gmail.com](mailto:erxionghu@gmail.com)
 
 <!--
