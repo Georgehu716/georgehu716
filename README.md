@@ -2,7 +2,7 @@
 
 I don't remember anything but solving problems.
 
-Looking for a remote job, feel free to contact me: [erxionghu@gmail.com](mailto:erxionghu@gmail.com)
+Looking for a job, feel free to contact me: [erxionghu@gmail.com](mailto:erxionghu@gmail.com)
 
 <!--
 **Georgehu716/georgehu716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
